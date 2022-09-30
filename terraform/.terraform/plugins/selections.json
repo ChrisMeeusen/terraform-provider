@@ -1,0 +1,6 @@
+{
+  "terraform-example.com/exampleprovider/example": {
+    "hash": "h1:b7c4BRdpZMEGUb/pxt1Gop2cN8vQk/AHTaDwt6HUdpk=",
+    "version": "1.0.0"
+  }
+}
